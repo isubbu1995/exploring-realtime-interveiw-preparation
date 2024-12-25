@@ -1,0 +1,3 @@
+Order1: ProductA, Quantity: 10
+Order2: ProductB, Quantity: 5
+Order3: ProductC, Quantity: 20
